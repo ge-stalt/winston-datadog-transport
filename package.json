@@ -1,0 +1,47 @@
+{
+  "name": "winston-datadog-transport",
+  "version": "0.0.1",
+  "description": "A logging and alerting transport for winston, using the Datadog https transport. See https://www.datadoghq.com/ and https://github.com/winstonjs/winston",
+  "main": "lib/winston-datadog-transport",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outwithreality/winston-datadog-transport.git"
+  },
+  "keywords": [
+    "winston",
+    "transport",
+    "datadog",
+    "logging",
+    "alerting",
+    "events",
+    "metrics"
+  ],
+  "author": {
+    "name": "outwithreality"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/outwithreality/winston-datadog-transport/issues"
+  },
+  "devDependencies": {
+    "dogapi": "^1.0.6",
+    "winston": "^0.7.2"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "maintainers": [
+    {
+      "name": "outwithreality",
+      "email": "david@springsmith.com"
+    }
+  ],
+  "directories": {},
+  "homepage": "https://github.com/outwithreality/winston-datadog-transport#readme",
+  "dependencies": {
+    "dogapi": "^1.0.6",
+    "winston": "^0.7.2"
+  }
+}

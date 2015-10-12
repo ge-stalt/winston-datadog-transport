@@ -1,6 +1,6 @@
 {
   "name": "winston-datadog-transport",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A logging and alerting transport for winston, using the Datadog https transport. See https://www.datadoghq.com/ and https://github.com/winstonjs/winston",
   "main": "lib/winston-datadog-transport",
   "scripts": {

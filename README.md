@@ -29,7 +29,7 @@ And in your code...
   require('winston-datadog-transport').datadog;
 var winstontransportdatadog = require('winston-datadog-transport');
   options = {
-  app_key:'<Your Datsdog API key>',
+  app_key:'<Your Datadog API key>',
   api_key:'<Your Datadog APP key>',
   name:''
   }
